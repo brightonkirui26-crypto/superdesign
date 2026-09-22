@@ -33,7 +33,7 @@ Works seamlessly with Cursor, Windsurf, Claude Code, and plain VS Code.
 
 [Upvote on Hackernews](https://news.ycombinator.com/item?id=44376003)
 
-[Install guide](https://www.superdesign.dev/ide-extension)
+[Install guide](https://www.superdesign.dev/ide-extension)create
 
 ---
 
